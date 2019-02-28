@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ObjectBoxDemo</string>
+    <string name="app_name">OB Kotlin Example</string>
+    <string name="app_name_reactive">OB Kotlin Rx Example</string>
+
+    <string name="enter_new_note">Enter new note</string>
+    <string name="add">Add</string>
+    <string name="click_to_remove">Click a note to remove it</string>
 </resources>
